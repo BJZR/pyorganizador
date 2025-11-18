@@ -1,4 +1,4 @@
-# Organizador de Archivos
+# Organizador de Archivos simple en python
 
 Este script en Python permite organizar automáticamente los archivos en un directorio dado según su tipo, moviéndolos a carpetas específicas basadas en sus extensiones. Además, soporta la descompresión automática de archivos comprimidos como `.zip` y `.tar`. Es una herramienta útil para mantener el orden en directorios con una gran cantidad de archivos.
 
